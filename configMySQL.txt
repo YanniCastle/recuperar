@@ -1,0 +1,7 @@
+create database recuperar;
+use loginrecuperar;
+CREATE TABLE `login` (
+  `correo` varchar(50) NOT NULL,
+  `pass` varchar(50) NOT NULL,
+  `usu` varchar(50) NOT NULL
+)

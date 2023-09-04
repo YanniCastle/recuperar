@@ -27,5 +27,5 @@ else
 {
 	echo "<script> alert('Este correo no existe');window.location= 'index.html' </script>";
 }
-/*VaidrollTeam*/
+
 ?>

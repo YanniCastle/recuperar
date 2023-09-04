@@ -28,5 +28,5 @@ else
 {
 		echo "<script> alert('No puedes registrar este correo: $correo');window.location= 'index.html' </script>";
 }
-/*VaidrollTeam*/
+
 ?>

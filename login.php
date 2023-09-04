@@ -19,5 +19,5 @@ else
 	echo "<script> alert('Usuario o contraseña incorrecto.');window.location= 'index.html' </script>";
 	}
 
-/*VaidrollTeam*/
+
 ?>

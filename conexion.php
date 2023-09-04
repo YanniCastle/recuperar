@@ -1,5 +1,5 @@
 <?php
-$conn = new mysqli("localhost","root","","registrar");
+$conn = new mysqli("localhost","root","","recuperar");
 	
 	if($conn->connect_errno)
 	{
